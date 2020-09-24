@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example.1/example3/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example.2/example3/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example.1/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example.2/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example.2/example4/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example.1/example4/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/coding/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/qualitative/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/synthesizing/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-09-24T18:02:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2020-09-24T18:02:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-24T18:02:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/test/</loc>
+    <lastmod>2020-09-24T18:02:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-n.-albohn/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/albohn-emotion-2020/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/reginald-b.-adams/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/albohn-everyday-2020/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/freudenberg-emotional-2019/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/maxi-freudenberg/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-e.-kleck/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ursula-hess/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/cody-cushing/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-de-vito/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hee-yeon-im/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kestutis-kveraga/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/kveraga-spatial-2019/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/6/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/adams-differential-2019/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jasmine-boshyan/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/joseph-c.-brandenburg/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/noreen-ward/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/hess-perceiving-2019/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/cody-a.-cushing/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cushing-neurodynamics-2018/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/troy-g.-steiner/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cho-culture-2018/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jose-a.-soto/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-r.-minnick/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/natalia-van-doren/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sinhae-cho/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zeigler-hill-automaticity-2018/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/carlos-o.-garrido/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bruce-p.-mortenson/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-albohn/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/karena-s.-rush/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-e.-golden/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/melissa-horger/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rush-effects-2017/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/im-differential-2017/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/im-cross-cultural-2017/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jisoo-sun/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sang-chul-chong/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/adams-social-2017/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/adams-social-2017-1/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/d.n-albohn/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/k-kveraga/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-b.-adams/</loc>
+    <lastmod>2020-09-24T17:44:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-a.-ozdogru/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-acosta/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-cleeremans/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-h.-fischer/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-p.-pacheco-unguetti/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/b.-pearson/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/b.-wainwright/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-a.-capaldi/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-koch/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-n.-nance/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-powis/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/d.-lynott/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/d.-n.-albohn/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-e.-zetzer/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-s.-allard/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-j.-wagenmakers/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-m.-blouin-hudon/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/f.-foroni/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-a.-soto/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-d.-liao/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-f.-wayand/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-l.-h.-jones/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-lupianez/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-m.-decicco/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-m.-talarico/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/k.-dijkstra/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/k.-j.-holmes/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/k.-sobocko/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/k.-t.-chasten/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/l.-c.-bulnes/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/l.-connell/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/l.-dijkhoff/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-senden/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-vandekerckhove/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/n.-b.-shea-shumsky/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/n.-s.-carfagno/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/o.-klein/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/p.-lewinski/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/q.-f.-gronau/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-a.-zwaan/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-i.-rumiati/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-j.-calin-jageman/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-zeelenberg/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wagenmakers-registered-2016/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-d.-benning/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-korb/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-lund/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-oosterwijk/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-riding/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/t.-beek/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/t.-g.-steiner/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/t.-l.-caldwell/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/t.-a.-roberts/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/u.-hess/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/z.-m.-van-allen/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/adams-what-2016/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/albohn-social-2016/</loc>
+    <lastmod>2020-09-24T17:44:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/me/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/presentations/</loc>
+  </url>
+  
+</urlset>

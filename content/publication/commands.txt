@@ -1,0 +1,5 @@
+https://wowchemy.com/docs/managing-content/
+
+https://github.com/wowchemy/hugo-academic-cli
+
+(From website root directory at cli): academic import --bibtex ./content/publication/my_pubs.bib
