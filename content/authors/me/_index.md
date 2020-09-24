@@ -1,6 +1,6 @@
 ---
 authors:
-- admin
+- me
 avatar_image: Albohn_Daniel-full.png
 bio: My research interests include social and computer vision applied to person perception.
 btn:
@@ -29,7 +29,7 @@ name: Daniel Albohn
 organizations:
 - name: University of Chicago Booth School of Buisness
   url: ""
-role: Postdoc Researcher
+role: Postdoc Researcher 
 social:
 - icon: google-scholar
   icon_pack: ai
