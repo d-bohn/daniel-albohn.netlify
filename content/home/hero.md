@@ -44,4 +44,4 @@ hero_media = "Albohn_Daniel.jpg"
 +++
 ## My name is **Daniel Albohn** and I'm a **postdoc** at the **Booth School of Buisness** 
 
-My research focuses on **Person Perception** and and **applied machine learning** (computer vision, AI) for understanding how individuals view others and the world around them.
+My research focuses on **Person Perception** and **applied machine learning** (computer vision, AI) for understanding how individuals view others and the world around them.

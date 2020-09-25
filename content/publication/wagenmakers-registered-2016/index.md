@@ -11,7 +11,7 @@ authors:
 - Q. F. Gronau
 - A. Acosta
 - R. B. Adams
-- D. N. Albohn
+- Daniel N. Albohn
 - E. S. Allard
 - S. D. Benning
 - E.-M. Blouin-Hudon
@@ -63,7 +63,7 @@ authors:
 tags: []
 categories: []
 date: '2016-11-01'
-lastmod: 2020-09-24T17:44:01-05:00
+lastmod: 2020-09-25T14:38:31-05:00
 featured: false
 draft: false
 
@@ -81,7 +81,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-24T22:44:01.546738Z'
+publishDate: '2020-09-25T19:38:31.534508Z'
 publication_types:
 - 2
 abstract: According to the facial feedback hypothesis, people’s affective responses
