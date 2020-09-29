@@ -41,7 +41,7 @@ hero_media = "Albohn_Daniel.jpg"
   url = "contact/"
   label = "Contact me"
 
-## My name is **Daniel Albohn** and I'm a **postdoc** at the University of Chicago **Booth School of Buisness**.
+## My name is **Daniel Albohn** and I'm a **postdoc** at the University of Chicago **Booth School of Business**.
 
 My research focuses on **person perception** and **applied machine learning** (computer vision, AI) to understand how individuals view others and the world around them.
 +++
