@@ -9,12 +9,12 @@ authors:
 - Karena S. Rush
 - Maria E. Golden
 - Bruce P. Mortenson
-- Daniel N. Albohn
+- Daniel Albohn
 - Melissa Horger
 tags: []
 categories: []
 date: '2017-12-01'
-lastmod: 2020-09-25T14:38:32-05:00
+lastmod: 2020-09-24T17:44:02-05:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-25T19:38:32.562340Z'
+publishDate: '2020-09-24T22:44:02.569426Z'
 publication_types:
 - 2
 abstract: ''
