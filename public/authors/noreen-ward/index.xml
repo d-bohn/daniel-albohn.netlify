@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noreen Ward on Daniel Albohn</title>
-    <link>/authors/noreen-ward/</link>
+    <link>https://examplesite.org/authors/noreen-ward/</link>
     <description>Recent content in Noreen Ward on Daniel Albohn</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/noreen-ward/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://examplesite.org/authors/noreen-ward/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Differential magnocellular versus parvocellular pathway contributions to the combinatorial processing of facial threat</title>
-      <link>/publication/adams-differential-2019/</link>
+      <link>https://examplesite.org/publication/adams-differential-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/adams-differential-2019/</guid>
+      <guid>https://examplesite.org/publication/adams-differential-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurodynamics and connectivity during facial fear perception: The role of threat exposure and signal congruity</title>
-      <link>/publication/cushing-neurodynamics-2018/</link>
+      <link>https://examplesite.org/publication/cushing-neurodynamics-2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cushing-neurodynamics-2018/</guid>
+      <guid>https://examplesite.org/publication/cushing-neurodynamics-2018/</guid>
       <description></description>
     </item>
     

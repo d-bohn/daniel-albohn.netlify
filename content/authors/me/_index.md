@@ -27,7 +27,7 @@ interests:
 - Machine Learning
 name: Daniel Albohn
 organizations:
-- name: University of Chicago Booth School of Buisness
+- name: University of Chicago Booth School of Business
   url: ""
 role: Postdoc Researcher 
 social:

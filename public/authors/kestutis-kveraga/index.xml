@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kestutis Kveraga on Daniel Albohn</title>
-    <link>/authors/kestutis-kveraga/</link>
+    <link>https://examplesite.org/authors/kestutis-kveraga/</link>
     <description>Recent content in Kestutis Kveraga on Daniel Albohn</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/kestutis-kveraga/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://examplesite.org/authors/kestutis-kveraga/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Spatial and feature-based attention to expressive faces</title>
-      <link>/publication/kveraga-spatial-2019/</link>
+      <link>https://examplesite.org/publication/kveraga-spatial-2019/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/kveraga-spatial-2019/</guid>
+      <guid>https://examplesite.org/publication/kveraga-spatial-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential magnocellular versus parvocellular pathway contributions to the combinatorial processing of facial threat</title>
-      <link>/publication/adams-differential-2019/</link>
+      <link>https://examplesite.org/publication/adams-differential-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/adams-differential-2019/</guid>
+      <guid>https://examplesite.org/publication/adams-differential-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurodynamics and connectivity during facial fear perception: The role of threat exposure and signal congruity</title>
-      <link>/publication/cushing-neurodynamics-2018/</link>
+      <link>https://examplesite.org/publication/cushing-neurodynamics-2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cushing-neurodynamics-2018/</guid>
+      <guid>https://examplesite.org/publication/cushing-neurodynamics-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential hemispheric and visual stream contributions to ensemble coding of crowd emotion</title>
-      <link>/publication/im-differential-2017/</link>
+      <link>https://examplesite.org/publication/im-differential-2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/im-differential-2017/</guid>
+      <guid>https://examplesite.org/publication/im-differential-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-cultural and hemispheric laterality effects on the ensemble coding of emotion in facial crowds</title>
-      <link>/publication/im-cross-cultural-2017/</link>
+      <link>https://examplesite.org/publication/im-cross-cultural-2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/im-cross-cultural-2017/</guid>
+      <guid>https://examplesite.org/publication/im-cross-cultural-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Vision: Applying a Social-Functional Approach to Face and Expression Perception</title>
-      <link>/publication/adams-social-2017/</link>
+      <link>https://examplesite.org/publication/adams-social-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/adams-social-2017/</guid>
+      <guid>https://examplesite.org/publication/adams-social-2017/</guid>
       <description></description>
     </item>
     

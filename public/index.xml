@@ -2,94 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Albohn</title>
-    <link>/</link>
+    <link>https://examplesite.org/</link>
     <description>Recent content on Daniel Albohn</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://examplesite.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://examplesite.org/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>/talk/</guid>
+      <guid>https://examplesite.org/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://examplesite.org/post/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/</guid>
+      <guid>https://examplesite.org/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://examplesite.org/publication/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>https://examplesite.org/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>/courses/</link>
+      <link>https://examplesite.org/courses/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/courses/</guid>
+      <guid>https://examplesite.org/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/</link>
+      <link>https://examplesite.org/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/slides/</guid>
+      <guid>https://examplesite.org/slides/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;The source code for this website is hosted on &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;, and the website is deloyed on &lt;a href=&#34;https://www.netlify.com/&#34;&gt;netlify&lt;/a&gt;. Please refer to each website&amp;rsquo;s privacy statements for detailed information.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.github.com/en/github/site-policy/github-privacy-statement&#34;&gt;GitHub Privacy Policy&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.netlify.com/privacy/&#34;&gt;Netlify Privacy Policy&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://examplesite.org/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/</guid>
+      <guid>https://examplesite.org/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact Information</title>
-      <link>/contact/</link>
+      <link>https://examplesite.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://examplesite.org/contact/</guid>
       <description>&lt;p&gt;Daniel Albohn, PhD&lt;br&gt;
 Principal Researcher (Postdoc)&lt;br&gt;
 The University of Chicago&lt;br&gt;
@@ -101,10 +83,10 @@ Booth School of Business&lt;/p&gt;
     
     <item>
       <title>Presentations</title>
-      <link>/presentations/</link>
+      <link>https://examplesite.org/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/presentations/</guid>
+      <guid>https://examplesite.org/presentations/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Albohn, D.N.&lt;/strong&gt;, &amp;amp; Adams, R.B., Jr. (2020, July). Machine learning of facial emotion: Implications for gender stereotypes. Presentation at The Summer Conference on Social Perception, Denver, CO (held remotely).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Albohn, D.N.&lt;/strong&gt;, &amp;amp; Adams, R.B., Jr. (2020, Feb.). The expressive triad: Structure, color, and texture resemblance to expressions predict impressions of neutral faces. Poster presented at the Nonverbal Preconference of the Society for Personality and Social Psychology, New Orleans, LA.&lt;/p&gt;
 &lt;p&gt;Brandenburg, J.C., &lt;strong&gt;Albohn, D.N.&lt;/strong&gt;, &amp;amp; Adams, R.B., Jr. (2020, Feb.). Accurate judgements of criminal sentencing based on offender mugshots. Presentation at the Nonverbal Preconference of the Society for Personality and Social Psychology, New Orleans, LA.&lt;/p&gt;

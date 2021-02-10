@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Melissa Horger on Daniel Albohn</title>
-    <link>/authors/melissa-horger/</link>
+    <link>https://examplesite.org/authors/melissa-horger/</link>
     <description>Recent content in Melissa Horger on Daniel Albohn</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/melissa-horger/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://examplesite.org/authors/melissa-horger/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Effects of a Mindfulness and Biofeedback Program on the On- and Off-Task Behaviors of Students with Emotional Behavioral Disorders</title>
-      <link>/publication/rush-effects-2017/</link>
+      <link>https://examplesite.org/publication/rush-effects-2017/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/rush-effects-2017/</guid>
+      <guid>https://examplesite.org/publication/rush-effects-2017/</guid>
       <description></description>
     </item>
     

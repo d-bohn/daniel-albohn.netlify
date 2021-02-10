@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ursula Hess on Daniel Albohn</title>
-    <link>/authors/ursula-hess/</link>
+    <link>https://examplesite.org/authors/ursula-hess/</link>
     <description>Recent content in Ursula Hess on Daniel Albohn</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/ursula-hess/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://examplesite.org/authors/ursula-hess/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Emotional stereotypes on trial: Implicit emotion associations for young and old adults.</title>
-      <link>/publication/freudenberg-emotional-2019/</link>
+      <link>https://examplesite.org/publication/freudenberg-emotional-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/freudenberg-emotional-2019/</guid>
+      <guid>https://examplesite.org/publication/freudenberg-emotional-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Facial Appearance Reveals Over Time: When Perceived Expressions in Neutral Faces Reveal Stable Emotion Dispositions</title>
-      <link>/publication/adams-what-2016/</link>
+      <link>https://examplesite.org/publication/adams-what-2016/</link>
       <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/adams-what-2016/</guid>
+      <guid>https://examplesite.org/publication/adams-what-2016/</guid>
       <description></description>
     </item>
     
