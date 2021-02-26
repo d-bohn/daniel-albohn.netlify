@@ -2,76 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Albohn</title>
-    <link>https://examplesite.org/</link>
+    <link>https://daniel-albohn.com/</link>
     <description>Recent content on Daniel Albohn</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://daniel-albohn.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://examplesite.org/talk/</link>
+      <link>https://daniel-albohn.com/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://examplesite.org/post/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.org/post/</guid>
+      <guid>https://daniel-albohn.com/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://examplesite.org/publication/</link>
+      <link>https://daniel-albohn.com/publication/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/publication/</guid>
+      <guid>https://daniel-albohn.com/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://examplesite.org/courses/</link>
+      <link>https://daniel-albohn.com/courses/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://examplesite.org/courses/</guid>
+      <guid>https://daniel-albohn.com/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://examplesite.org/slides/</link>
+      <link>https://daniel-albohn.com/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/slides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://examplesite.org/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.org/project/</guid>
+      <guid>https://daniel-albohn.com/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact Information</title>
-      <link>https://examplesite.org/contact/</link>
+      <link>https://daniel-albohn.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/contact/</guid>
+      <guid>https://daniel-albohn.com/contact/</guid>
       <description>&lt;p&gt;Daniel Albohn, PhD&lt;br&gt;
 Principal Researcher (Postdoc)&lt;br&gt;
 The University of Chicago&lt;br&gt;
@@ -82,11 +64,20 @@ Booth School of Business&lt;/p&gt;
     </item>
     
     <item>
-      <title>Presentations</title>
-      <link>https://examplesite.org/presentations/</link>
+      <title>Posts</title>
+      <link>https://daniel-albohn.com/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/presentations/</guid>
+      <guid>https://daniel-albohn.com/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>https://daniel-albohn.com/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/presentations/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Albohn, D.N.&lt;/strong&gt;, &amp;amp; Adams, R.B., Jr. (2020, July). Machine learning of facial emotion: Implications for gender stereotypes. Presentation at The Summer Conference on Social Perception, Denver, CO (held remotely).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Albohn, D.N.&lt;/strong&gt;, &amp;amp; Adams, R.B., Jr. (2020, Feb.). The expressive triad: Structure, color, and texture resemblance to expressions predict impressions of neutral faces. Poster presented at the Nonverbal Preconference of the Society for Personality and Social Psychology, New Orleans, LA.&lt;/p&gt;
 &lt;p&gt;Brandenburg, J.C., &lt;strong&gt;Albohn, D.N.&lt;/strong&gt;, &amp;amp; Adams, R.B., Jr. (2020, Feb.). Accurate judgements of criminal sentencing based on offender mugshots. Presentation at the Nonverbal Preconference of the Society for Personality and Social Psychology, New Orleans, LA.&lt;/p&gt;
@@ -137,6 +128,25 @@ Booth School of Business&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Albohn, D.N.&lt;/strong&gt;, Weathersby. T., Stoppa, T.M., Van Leeuwen, M., &amp;amp; Thomas, M. (2012, March). Locus of control as a predictor of moral decision-making among college students.  Poster presented at the Annual Philadelphia Area Psi Chi Research Day Conference, Philadelphia, PA.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Albohn, D.N.&lt;/strong&gt;, Matteucci, A., &amp;amp; Riddle, J. (2012, March). Exercise behavior among college students and gender differences in a health-promotive intervention. Poster presented at the 83rd annual Eastern Psychological Association Research Conference, Pittsburgh, PA.&lt;/p&gt;
 &lt;p&gt;Matteucci, A., Riddle, J., &amp;amp; &lt;strong&gt;Albohn, D.N.&lt;/strong&gt; (2011, May). Effects of a college health-promotive intervention on exercise-related activities. Poster presented at the Annual Philadelphia Area Psi Chi Research Day Conference, Philadelphia, PA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects and Code</title>
+      <link>https://daniel-albohn.com/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/project/</guid>
+      <description>&lt;h1 id=&#34;faceplyrhttpsgithubcomd-bohnfaceplyr&#34;&gt;&lt;a href=&#34;https://github.com/d-bohn/faceplyr&#34;&gt;&lt;code&gt;faceplyr&lt;/code&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/d-bohn/faceplyr&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;An R package for working with face images. Can be installed in R with:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;install.packages(&amp;quot;remotes&amp;quot;)
+remotes::install_github(&amp;quot;d-bohn/faceplyr&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;See the repository README for detailed instructions on properly setting up the package.&lt;/p&gt;
+&lt;h1 id=&#34;the-expressive-triad&#34;&gt;The Expressive Triad&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2021.612923/full&#34;&gt;Paper&lt;/a&gt;; &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2021.612923/full#supplementary-material&#34;&gt;Supplemental Materials&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This project investigates whether a machine learning algorithm can objectively and automatically compute expressive content from neutral facial images utilizing low-level features of the face.&lt;/p&gt;
+&lt;p&gt;(Self-contained Docker image, models, and code coming soon!)&lt;/p&gt;
 </description>
     </item>
     
