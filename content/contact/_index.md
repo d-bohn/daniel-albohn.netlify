@@ -7,7 +7,7 @@ title: Contact Information
 ---
 
 Daniel Albohn, PhD  
-Principal Researcher (Postdoc)  
+Principal Researcher (postdoc)  
 The University of Chicago  
 Booth School of Business  
 

@@ -73,6 +73,26 @@
   </url>
   
   <url>
+    <loc>https://daniel-albohn.com/post/</loc>
+    <lastmod>2020-09-24T18:02:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daniel-albohn.com/tags/r/</loc>
+    <lastmod>2020-09-24T18:02:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daniel-albohn.com/tags/</loc>
+    <lastmod>2020-09-24T18:02:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daniel-albohn.com/post/test/</loc>
+    <lastmod>2020-09-24T18:02:17-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daniel-albohn.com/publication_types/2/</loc>
     <lastmod>2020-09-24T17:44:02-05:00</lastmod>
   </url>
@@ -625,19 +645,11 @@
   </url>
   
   <url>
-    <loc>https://daniel-albohn.com/post/</loc>
-  </url>
-  
-  <url>
     <loc>https://daniel-albohn.com/presentations/</loc>
   </url>
   
   <url>
     <loc>https://daniel-albohn.com/project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://daniel-albohn.com/tags/</loc>
   </url>
   
 </urlset>
