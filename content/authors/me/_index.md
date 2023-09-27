@@ -5,7 +5,7 @@ avatar_image: Albohn_Daniel-full.png
 bio: My research interests include social and computer vision applied to person perception.
 btn:
 - label: Download CV
-  url: "Albohn_CV_Fall_2020.pdf"
+  url: "2023-09-08_Albohn_CV.pdf"
 display_education: true
 education:
   courses:
@@ -21,10 +21,10 @@ education:
 email: ""
 interests:
 - Social Vision
+- Idiosyncratic Human Judgment
 - The "Neutral Face"
-- Social Threat Perception
+- Social Perception
 - Computer Vision
-- Machine Learning
 name: Daniel Albohn
 organizations:
 - name: University of Chicago Booth School of Business
@@ -33,7 +33,7 @@ role: Principal Researcher (postdoc)
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=4bakxq8AAAAJ&hl
+  link: https://scholar.google.com/citations?user=4bakxq8AAAAJ&hl
 - icon: github
   icon_pack: fab
   link: https://github.com/d-bohn
@@ -43,5 +43,7 @@ user_groups:
 - Visitors
 ---
 
-Dan's two primary lines of research merge person perception and vision. First, he examines how social cues inform both emotion perception and impression formation (i.e., social vision), with a particular focus on how individuals extract information from an ostensibly “neutral” or minimally expressive face. Second, he uses innovative quantitative methods, computer vision, and machine learning techniques to help elucidate questions that are either beyond the capabilities of the human visual system or are too complex or invasive to test in the laboratory. Dan leverages state-of-the-art machine learning, computer vision, and quantitative methodology (e.g., statistical modeling, psychophysiology) to help answer social-visual questions in new and exciting ways.
+My research is guided by a simple, yet theoretically impactful, principle: Some—but far from all—individuals agree with each other on judgments. Whereas most prior work to date has focused on shared variance, there is likely even more insight to be gleaned by studying idiosyncratic variance, and the interaction of both sources of variance. My program of research exists at the intersection of social perception, cognitive science, and computer vision. A major focus of my research examines when and why individuals agree or disagree on judgments. I have primarily examined this through testing how individuals extract and utilize information from faces, but the general approach and methods apply to all judgments and preferences.
+
+To empirically examine sources of variance in judgment I leverage behavioral, vision, and computer science to inform the complex process of human judgment. My research utilizes methods and tools from computer vision, advanced modeling, and vision science. These methods and tools are tightly integrated into my main research focus on shared and idiosyncratic contributions to perception and judgment.
 

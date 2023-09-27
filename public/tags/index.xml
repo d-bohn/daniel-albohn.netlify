@@ -7,10 +7,91 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://daniel-albohn.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>data-driven methods</title>
+      <link>https://daniel-albohn.com/tags/data-driven-methods/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/tags/data-driven-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>faces</title>
+      <link>https://daniel-albohn.com/tags/faces/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/tags/faces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>idiosyncratic differences</title>
+      <link>https://daniel-albohn.com/tags/idiosyncratic-differences/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/tags/idiosyncratic-differences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>impressions</title>
+      <link>https://daniel-albohn.com/tags/impressions/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/tags/impressions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emotion expression</title>
+      <link>https://daniel-albohn.com/tags/emotion-expression/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/tags/emotion-expression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>face perception</title>
+      <link>https://daniel-albohn.com/tags/face-perception/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/tags/face-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facial expresions</title>
+      <link>https://daniel-albohn.com/tags/facial-expresions/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/tags/facial-expresions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>impression formation</title>
+      <link>https://daniel-albohn.com/tags/impression-formation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/tags/impression-formation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://daniel-albohn.com/tags/machine-learning/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R</title>
@@ -18,6 +99,24 @@
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://daniel-albohn.com/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://daniel-albohn.com/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://daniel-albohn.com/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/tags/demo/</guid>
       <description></description>
     </item>
     

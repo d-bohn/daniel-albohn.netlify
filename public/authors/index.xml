@@ -7,26 +7,125 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://daniel-albohn.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Alexander Todorov</title>
+      <link>https://daniel-albohn.com/authors/alexander-todorov/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/alexander-todorov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Daniel N. Albohn</title>
       <link>https://daniel-albohn.com/authors/daniel-n.-albohn/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://daniel-albohn.com/authors/daniel-n.-albohn/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Stefan Uddenberg</title>
+      <link>https://daniel-albohn.com/authors/stefan-uddenberg/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/stefan-uddenberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph C. Brandenburg</title>
+      <link>https://daniel-albohn.com/authors/joseph-c.-brandenburg/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/joseph-c.-brandenburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kestutis Kveraga</title>
+      <link>https://daniel-albohn.com/authors/kestutis-kveraga/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/kestutis-kveraga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reginald B. Adams</title>
       <link>https://daniel-albohn.com/authors/reginald-b.-adams/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://daniel-albohn.com/authors/reginald-b.-adams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos O. Garrido</title>
+      <link>https://daniel-albohn.com/authors/carlos-o.-garrido/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/carlos-o.-garrido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katharine Donnelly Adams</title>
+      <link>https://daniel-albohn.com/authors/katharine-donnelly-adams/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/katharine-donnelly-adams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Hedgecoth</title>
+      <link>https://daniel-albohn.com/authors/nicole-hedgecoth/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/nicole-hedgecoth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose A. Soto</title>
+      <link>https://daniel-albohn.com/authors/jose-a.-soto/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/jose-a.-soto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael J. Bernstein</title>
+      <link>https://daniel-albohn.com/authors/michael-j.-bernstein/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/michael-j.-bernstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ursula Hess</title>
+      <link>https://daniel-albohn.com/authors/ursula-hess/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/ursula-hess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reginal B. Adams</title>
+      <link>https://daniel-albohn.com/authors/reginal-b.-adams/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/reginal-b.-adams/</guid>
       <description></description>
     </item>
     
@@ -45,15 +144,6 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://daniel-albohn.com/authors/robert-e.-kleck/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ursula Hess</title>
-      <link>https://daniel-albohn.com/authors/ursula-hess/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daniel-albohn.com/authors/ursula-hess/</guid>
       <description></description>
     </item>
     
@@ -85,29 +175,11 @@
     </item>
     
     <item>
-      <title>Kestutis Kveraga</title>
-      <link>https://daniel-albohn.com/authors/kestutis-kveraga/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daniel-albohn.com/authors/kestutis-kveraga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jasmine Boshyan</title>
       <link>https://daniel-albohn.com/authors/jasmine-boshyan/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://daniel-albohn.com/authors/jasmine-boshyan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joseph C. Brandenburg</title>
-      <link>https://daniel-albohn.com/authors/joseph-c.-brandenburg/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daniel-albohn.com/authors/joseph-c.-brandenburg/</guid>
       <description></description>
     </item>
     
@@ -139,18 +211,9 @@
     </item>
     
     <item>
-      <title>José A. Soto</title>
-      <link>https://daniel-albohn.com/authors/jose-a.-soto/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daniel-albohn.com/authors/jose-a.-soto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mark R. Minnick</title>
       <link>https://daniel-albohn.com/authors/mark-r.-minnick/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://daniel-albohn.com/authors/mark-r.-minnick/</guid>
       <description></description>
@@ -159,7 +222,7 @@
     <item>
       <title>Natalia Van Doren</title>
       <link>https://daniel-albohn.com/authors/natalia-van-doren/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://daniel-albohn.com/authors/natalia-van-doren/</guid>
       <description></description>
@@ -168,18 +231,9 @@
     <item>
       <title>Sinhae Cho</title>
       <link>https://daniel-albohn.com/authors/sinhae-cho/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://daniel-albohn.com/authors/sinhae-cho/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carlos O. Garrido</title>
-      <link>https://daniel-albohn.com/authors/carlos-o.-garrido/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://daniel-albohn.com/authors/carlos-o.-garrido/</guid>
       <description></description>
     </item>
     
@@ -189,15 +243,6 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://daniel-albohn.com/authors/bruce-p.-mortenson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel Albohn</title>
-      <link>https://daniel-albohn.com/authors/daniel-albohn/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://daniel-albohn.com/authors/daniel-albohn/</guid>
       <description></description>
     </item>
     
@@ -243,33 +288,6 @@
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://daniel-albohn.com/authors/sang-chul-chong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D.N Albohn</title>
-      <link>https://daniel-albohn.com/authors/d.n-albohn/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://daniel-albohn.com/authors/d.n-albohn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K Kveraga</title>
-      <link>https://daniel-albohn.com/authors/k-kveraga/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://daniel-albohn.com/authors/k-kveraga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. B. Adams</title>
-      <link>https://daniel-albohn.com/authors/r.-b.-adams/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://daniel-albohn.com/authors/r.-b.-adams/</guid>
       <description></description>
     </item>
     
@@ -634,6 +652,15 @@
     </item>
     
     <item>
+      <title>R. B. Adams</title>
+      <link>https://daniel-albohn.com/authors/r.-b.-adams/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/r.-b.-adams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R. I. Rumiati</title>
       <link>https://daniel-albohn.com/authors/r.-i.-rumiati/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
@@ -760,12 +787,40 @@
     </item>
     
     <item>
+      <title>Alyssa J Matteucci</title>
+      <link>https://daniel-albohn.com/authors/alyssa-j-matteucci/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/alyssa-j-matteucci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tara M. Stoppa</title>
+      <link>https://daniel-albohn.com/authors/tara-m.-stoppa/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/tara-m.-stoppa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wendy Mercier</title>
+      <link>https://daniel-albohn.com/authors/wendy-mercier/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/authors/wendy-mercier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://daniel-albohn.com/authors/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://daniel-albohn.com/authors/me/</guid>
-      <description>&lt;p&gt;Dan&amp;rsquo;s two primary lines of research merge person perception and vision. First, he examines how social cues inform both emotion perception and impression formation (i.e., social vision), with a particular focus on how individuals extract information from an ostensibly “neutral” or minimally expressive face. Second, he uses innovative quantitative methods, computer vision, and machine learning techniques to help elucidate questions that are either beyond the capabilities of the human visual system or are too complex or invasive to test in the laboratory. Dan leverages state-of-the-art machine learning, computer vision, and quantitative methodology (e.g., statistical modeling, psychophysiology) to help answer social-visual questions in new and exciting ways.&lt;/p&gt;
+      <description>&lt;p&gt;My research is guided by a simple, yet theoretically impactful, principle: Some—but far from all—individuals agree with each other on judgments. Whereas most prior work to date has focused on shared variance, there is likely even more insight to be gleaned by studying idiosyncratic variance, and the interaction of both sources of variance. My program of research exists at the intersection of social perception, cognitive science, and computer vision. A major focus of my research examines when and why individuals agree or disagree on judgments. I have primarily examined this through testing how individuals extract and utilize information from faces, but the general approach and methods apply to all judgments and preferences.&lt;/p&gt;
+&lt;p&gt;To empirically examine sources of variance in judgment I leverage behavioral, vision, and computer science to inform the complex process of human judgment. My research utilizes methods and tools from computer vision, advanced modeling, and vision science. These methods and tools are tightly integrated into my main research focus on shared and idiosyncratic contributions to perception and judgment.&lt;/p&gt;
 </description>
     </item>
     

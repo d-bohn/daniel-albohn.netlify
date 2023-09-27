@@ -7,116 +7,179 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://daniel-albohn.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Emotion Residue in Neutral Faces: Implications for Impression Formation</title>
-      <link>https://daniel-albohn.com/publication/albohn-emotion-2020/</link>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Generative models for visualizing idiosyncratic impressions</title>
+      <link>https://daniel-albohn.com/publication/todorov-2022-generative-models-visualizing/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://daniel-albohn.com/publication/albohn-emotion-2020/</guid>
+      <guid>https://daniel-albohn.com/publication/todorov-2022-generative-models-visualizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The shared signal hypothesis: Facial and bodily expressions of emotion mutually inform one another</title>
+      <link>https://daniel-albohn.com/publication/albohn-shared-signal-hypothesis-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/publication/albohn-shared-signal-hypothesis-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Social Face Hypothesis</title>
+      <link>https://daniel-albohn.com/publication/albohn-social-face-hypothesis-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/publication/albohn-social-face-hypothesis-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angry White Faces: A Contradiction of Racial Stereotypes and Emotion-Resembling Appearance</title>
+      <link>https://daniel-albohn.com/publication/adams-2022-angry-white-faces/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/publication/adams-2022-angry-white-faces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facing social exclusion: a facial EMG examination of the reaffiliative function of smiling</title>
+      <link>https://daniel-albohn.com/publication/brandenburg-facing-social-exclusion-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/publication/brandenburg-facing-social-exclusion-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A data-driven, hyper-realistic method for visualizing individual mental representations of faces</title>
+      <link>https://daniel-albohn.com/publication/albohn-datadriven-hyperrealistic-method-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/publication/albohn-datadriven-hyperrealistic-method-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Expressive Triad: Structure, Color, and Texture Similarity of Emotion Expressions Predict Impressions of Neutral Faces</title>
+      <link>https://daniel-albohn.com/publication/albohn-2021-expressive-triad-structure/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/publication/albohn-2021-expressive-triad-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Residue in Neutral Faces: Implications for Impression Formation</title>
+      <link>https://daniel-albohn.com/publication/albohn-2020-emotion-residue-neutral/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/publication/albohn-2020-emotion-residue-neutral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Everyday Beliefs About Emotion Perceptually Derived From Neutral Facial Appearance</title>
-      <link>https://daniel-albohn.com/publication/albohn-everyday-2020/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <link>https://daniel-albohn.com/publication/albohn-2020-everyday-beliefs-emotion/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://daniel-albohn.com/publication/albohn-everyday-2020/</guid>
+      <guid>https://daniel-albohn.com/publication/albohn-2020-everyday-beliefs-emotion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotional stereotypes on trial: Implicit emotion associations for young and old adults.</title>
-      <link>https://daniel-albohn.com/publication/freudenberg-emotional-2019/</link>
+      <link>https://daniel-albohn.com/publication/freudenberg-emotional-stereotypes-trial-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daniel-albohn.com/publication/freudenberg-emotional-2019/</guid>
+      <guid>https://daniel-albohn.com/publication/freudenberg-emotional-stereotypes-trial-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial and feature-based attention to expressive faces</title>
-      <link>https://daniel-albohn.com/publication/kveraga-spatial-2019/</link>
+      <link>https://daniel-albohn.com/publication/kveraga-spatial-featurebased-attention-2019/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daniel-albohn.com/publication/kveraga-spatial-2019/</guid>
+      <guid>https://daniel-albohn.com/publication/kveraga-spatial-featurebased-attention-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurodynamics and connectivity during facial fear perception: The role of threat exposure and signal congruity</title>
-      <link>https://daniel-albohn.com/publication/cushing-neurodynamics-2018/</link>
+      <link>https://daniel-albohn.com/publication/cushing-neurodynamics-connectivity-facial-2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://daniel-albohn.com/publication/cushing-neurodynamics-2018/</guid>
+      <guid>https://daniel-albohn.com/publication/cushing-neurodynamics-connectivity-facial-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culture Moderates the Relationship Between Emotional Fit and Collective Aspects of Well-Being</title>
-      <link>https://daniel-albohn.com/publication/cho-culture-2018/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <link>https://daniel-albohn.com/publication/cho-culture-moderates-relationship-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://daniel-albohn.com/publication/cho-culture-2018/</guid>
+      <guid>https://daniel-albohn.com/publication/cho-culture-moderates-relationship-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effects of a Mindfulness and Biofeedback Program on the On- and Off-Task Behaviors of Students with Emotional Behavioral Disorders</title>
-      <link>https://daniel-albohn.com/publication/rush-effects-2017/</link>
+      <link>https://daniel-albohn.com/publication/rush-2017-effects-mindfulness-biofeedback/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://daniel-albohn.com/publication/rush-effects-2017/</guid>
+      <guid>https://daniel-albohn.com/publication/rush-2017-effects-mindfulness-biofeedback/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential hemispheric and visual stream contributions to ensemble coding of crowd emotion</title>
-      <link>https://daniel-albohn.com/publication/im-differential-2017/</link>
+      <link>https://daniel-albohn.com/publication/im-differential-hemispheric-visual-2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://daniel-albohn.com/publication/im-differential-2017/</guid>
+      <guid>https://daniel-albohn.com/publication/im-differential-hemispheric-visual-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-cultural and hemispheric laterality effects on the ensemble coding of emotion in facial crowds</title>
-      <link>https://daniel-albohn.com/publication/im-cross-cultural-2017/</link>
+      <link>https://daniel-albohn.com/publication/im-crosscultural-hemispheric-laterality-2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://daniel-albohn.com/publication/im-cross-cultural-2017/</guid>
+      <guid>https://daniel-albohn.com/publication/im-crosscultural-hemispheric-laterality-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Vision: Applying a Social-Functional Approach to Face and Expression Perception</title>
-      <link>https://daniel-albohn.com/publication/adams-social-2017/</link>
+      <link>https://daniel-albohn.com/publication/adams-social-vision-applying-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://daniel-albohn.com/publication/adams-social-2017/</guid>
+      <guid>https://daniel-albohn.com/publication/adams-social-vision-applying-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Registered Replication Report: Strack, Martin, &amp; Stepper (1988)</title>
-      <link>https://daniel-albohn.com/publication/wagenmakers-registered-2016/</link>
+      <link>https://daniel-albohn.com/publication/wagenmakers-registered-replication-report-2016/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://daniel-albohn.com/publication/wagenmakers-registered-2016/</guid>
+      <guid>https://daniel-albohn.com/publication/wagenmakers-registered-replication-report-2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>What Facial Appearance Reveals Over Time: When Perceived Expressions in Neutral Faces Reveal Stable Emotion Dispositions</title>
-      <link>https://daniel-albohn.com/publication/adams-what-2016/</link>
-      <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
+      <title>Exercise Behavior Among Coliege Students and Sex Differences in a Health-Promotive Intervention</title>
+      <link>https://daniel-albohn.com/publication/matteucci-2012-exercise-behavior-coliege/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://daniel-albohn.com/publication/adams-what-2016/</guid>
+      <guid>https://daniel-albohn.com/publication/matteucci-2012-exercise-behavior-coliege/</guid>
       <description></description>
     </item>
     

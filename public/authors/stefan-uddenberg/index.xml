@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan Uddenberg on Daniel Albohn</title>
+    <link>https://daniel-albohn.com/authors/stefan-uddenberg/</link>
+    <description>Recent content in Stefan Uddenberg on Daniel Albohn</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://daniel-albohn.com/authors/stefan-uddenberg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generative models for visualizing idiosyncratic impressions</title>
+      <link>https://daniel-albohn.com/publication/todorov-2022-generative-models-visualizing/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/publication/todorov-2022-generative-models-visualizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A data-driven, hyper-realistic method for visualizing individual mental representations of faces</title>
+      <link>https://daniel-albohn.com/publication/albohn-datadriven-hyperrealistic-method-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/publication/albohn-datadriven-hyperrealistic-method-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
