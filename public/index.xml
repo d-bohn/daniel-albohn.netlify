@@ -58,30 +58,6 @@
     </item>
     
     <item>
-      <title>Projects and Code</title>
-      <link>https://daniel-albohn.com/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://daniel-albohn.com/project/</guid>
-      <description>&lt;h1 id=&#34;extempohttpsextemporocks&#34;&gt;&lt;a href=&#34;https://extempo.rocks&#34;&gt;extempo&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.2115228119&#34;&gt;Group-Level Paper&lt;/a&gt;; &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2022.997498/full&#34;&gt;Individual-Level Paper&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Create novel, realistic, diverse, and controllable stimuli for your next experiment.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;faceplyrhttpsgithubcomd-bohnfaceplyr&#34;&gt;&lt;a href=&#34;https://github.com/d-bohn/faceplyr&#34;&gt;&lt;code&gt;faceplyr&lt;/code&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/d-bohn/faceplyr&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;An R package for working with face images. Can be installed in R with:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;install.packages(&amp;quot;remotes&amp;quot;)
-remotes::install_github(&amp;quot;d-bohn/faceplyr&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;See the repository README for detailed instructions on properly setting up the package.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;the-expressive-triad&#34;&gt;The Expressive Triad&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2021.612923/full&#34;&gt;Paper&lt;/a&gt;; &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2021.612923/full#supplementary-material&#34;&gt;Supplemental Materials&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This project investigates whether a machine learning algorithm can objectively and automatically compute expressive content from neutral facial images utilizing low-level features of the face.&lt;/p&gt;
-&lt;p&gt;(Self-contained Docker image, models, and code coming soon!)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contact Information</title>
       <link>https://daniel-albohn.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -172,6 +148,30 @@ Booth School of Business&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Albohn, D. N.&lt;/strong&gt;, Weathersby. T., Stoppa, T. M., Van Leeuwen, M., &amp;amp; Thomas, M. (2012, March). Locus of control as a predictor of moral decision-making among college students.  Poster presented at the Annual Philadelphia Area Psi Chi Research Day Conference, Philadelphia, PA.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Albohn, D. N.&lt;/strong&gt;, Matteucci, A., &amp;amp; Riddle, J. (2012, March). Exercise behavior among college students and gender differences in a health-promotive intervention. Poster presented at the 83rd annual Eastern Psychological Association Research Conference, Pittsburgh, PA.&lt;/p&gt;
 &lt;p&gt;Matteucci, A., Riddle, J., &amp;amp; &lt;strong&gt;Albohn, D. N.&lt;/strong&gt; (2011, May). Effects of a college health-promotive intervention on exercise-related activities. Poster presented at the Annual Philadelphia Area Psi Chi Research Day Conference, Philadelphia, PA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects and Code</title>
+      <link>https://daniel-albohn.com/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daniel-albohn.com/project/</guid>
+      <description>&lt;h1 id=&#34;extempohttpsextemporocks&#34;&gt;&lt;a href=&#34;https://extempo.rocks&#34;&gt;extempo&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.2115228119&#34;&gt;Group-Level Paper&lt;/a&gt;; &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2022.997498/full&#34;&gt;Individual-Level Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Create novel, realistic, diverse, and controllable stimuli for your next experiment.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;faceplyrhttpsgithubcomd-bohnfaceplyr&#34;&gt;&lt;a href=&#34;https://github.com/d-bohn/faceplyr&#34;&gt;&lt;code&gt;faceplyr&lt;/code&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/d-bohn/faceplyr&#34;&gt;Code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;An R package for working with face images. Can be installed in R with:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;install.packages(&amp;#34;remotes&amp;#34;)
+remotes::install_github(&amp;#34;d-bohn/faceplyr&amp;#34;)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;See the repository README for detailed instructions on properly setting up the package.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;the-expressive-triad&#34;&gt;The Expressive Triad&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2021.612923/full&#34;&gt;Paper&lt;/a&gt;; &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpsyg.2021.612923/full#supplementary-material&#34;&gt;Supplemental Materials&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This project investigates whether a machine learning algorithm can objectively and automatically compute expressive content from neutral facial images utilizing low-level features of the face.&lt;/p&gt;
+&lt;p&gt;(Self-contained Docker image, models, and code coming soon!)&lt;/p&gt;
 </description>
     </item>
     
