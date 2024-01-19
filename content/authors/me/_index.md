@@ -17,7 +17,7 @@ education:
     year: 2014
   - course: BS Psychology
     institution: Eastern University
-    year: 2008
+    year: 2012
 email: ""
 interests:
 - Social Vision
